@@ -20,12 +20,13 @@
 
 ## 🔥 Recent Highlights
 
-| Project                                                          | Stack                                       | Impact                                                                              |
-| ---------------------------------------------------------------- | ------------------------------------------- | ----------------------------------------------------------------------------------- |
-| **Market Intel Agent** <br><sub>(AI Market Research Agent)</sub> | Go, React/Next.js, Python (OCR), LlamaIndex | <sup>⚡ 5× faster document insight extraction for QuadReal strategy teams</sup>     |
-| **Location Intelligence Platform**                               | Next.js, MapLibre GL + Deck.gl              | <sup>🗺️ Built 5 pages & 7 modular components to explore spatial‑temporal data</sup> |
-| **Automated Geospatial ETL**                                     | dbt, PostGIS, n8n, MinIO                    | <sup>📉 30 % faster spatial queries via index & boundary optimizations</sup>        |
-| **Quick Tweet**                                                  | React, Firebase, TypeScript                 | <sup>🔥 Real‑time social feed with GitHub OAuth & cloud deployment</sup>            |
+| Project                                                                       | Stack                                       | Impact                                                                                          |
+| ----------------------------------------------------------------------------- | ------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| **Market Intel Agent** <br><sub>(AI Market Research Agent)</sub>              | Go, React/Next.js, Python (OCR), LlamaIndex | <sup>⚡ 5× faster document insight extraction for QuadReal strategy teams</sup>                 |
+| **Location Intelligence Platform**                                            | Next.js, MapLibre GL + Deck.gl              | <sup>🗺️ Built 5 pages & 7 modular components to explore spatial‑temporal data</sup>             |
+| **Automated Geospatial ETL** <br><sub>(alameda‑county‑income‑dashboard)</sub> | dbt, PostGIS, n8n, MinIO                    | <sup>📉 30 % faster spatial queries via index & boundary optimizations</sup>                    |
+| **Quick Tweet**                                                               | React, Firebase, TypeScript                 | <sup>🔥 Real‑time social feed with GitHub OAuth & cloud deployment</sup>                        |
+| **Crypto Tracker**                                                            | React, TypeScript, React Query, ApexCharts  | <sup>💹 Live crypto price & chart dashboard with FX conversion and real‑time data updates</sup> |
 
 ## 🛠 Tech Stack
 
