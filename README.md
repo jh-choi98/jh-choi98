@@ -37,12 +37,12 @@
 | **Cloud & DevOps** | AWS S3 · CloudFront, Docker, GitHub Actions                          |
 | **Analytics & ML** | LlamaIndex, OpenAI API, Power BI                                     |
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jh-choi98&show_icons=true&hide_title=true&count_private=true" alt="Stats"><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jh-choi98&hide_border=true" alt="Streak">
-</p>
+</p> -->
 
 ## 💬 Let’s Connect
 
