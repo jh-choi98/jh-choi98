@@ -16,7 +16,7 @@
 
 - 🛠️ I craft **full‑stack products** that merge solid back‑end engineering with clean, interactive UIs.
 - 📊 Passionate about **data pipelines & geospatial analytics**—turning messy spatial data into fast APIs and visual dashboards.
-- 🎯 **Seeking a Fall 2025 Software Engineer / Backend internship** (Shopify · Snowflake · Stripe …).
+- 🎯 **Seeking a Fall 2025 Software Engineer / Backend internship**.
 
 ## 🔥 Recent Highlights
 
