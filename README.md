@@ -15,17 +15,17 @@
 ## 🚀 About Me
 
 - 🛠️ I craft **full‑stack products** that merge solid back‑end engineering with clean, interactive UIs.
-- 📊 Passionate about **data pipelines & geospatial analytics**—turning messy spatial data into fast APIs and visual dashboards.
+- 📊 Passionate about building full‑stack, **AI‑driven solutions**—from automated, scalable APIs to polished React UIs—that bring complex data to life.
 - 🎯 **Seeking a Fall 2025 Software Engineer / Backend internship**.
 
 ## 🔥 Recent Highlights
 
-| Project                            | Stack                                       | Impact                                                                              |
-| ---------------------------------- | ------------------------------------------- | ----------------------------------------------------------------------------------- |
-| **AI Market Research Agent**       | Go, React/Next.js, Python (OCR), LlamaIndex | <sup>⚡ 5× faster document insight extraction for QuadReal strategy teams</sup>     |
-| **Location Intelligence Platform** | Next.js, MapLibre GL + Deck.gl              | <sup>🗺️ Built 5 pages & 7 modular components to explore spatial‑temporal data</sup> |
-| **Automated Geospatial ETL**       | dbt, PostGIS, n8n, MinIO                    | <sup>📉 30 % faster spatial queries via index & boundary optimizations</sup>        |
-| **Quick Tweet**                    | React, Firebase, TypeScript                 | <sup>🔥 Real‑time social feed with GitHub OAuth & cloud deployment</sup>            |
+| Project                                                          | Stack                                       | Impact                                                                              |
+| ---------------------------------------------------------------- | ------------------------------------------- | ----------------------------------------------------------------------------------- |
+| **Market Intel Agent** <br><sub>(AI Market Research Agent)</sub> | Go, React/Next.js, Python (OCR), LlamaIndex | <sup>⚡ 5× faster document insight extraction for QuadReal strategy teams</sup>     |
+| **Location Intelligence Platform**                               | Next.js, MapLibre GL + Deck.gl              | <sup>🗺️ Built 5 pages & 7 modular components to explore spatial‑temporal data</sup> |
+| **Automated Geospatial ETL**                                     | dbt, PostGIS, n8n, MinIO                    | <sup>📉 30 % faster spatial queries via index & boundary optimizations</sup>        |
+| **Quick Tweet**                                                  | React, Firebase, TypeScript                 | <sup>🔥 Real‑time social feed with GitHub OAuth & cloud deployment</sup>            |
 
 ## 🛠 Tech Stack
 
@@ -33,8 +33,8 @@
 | ------------------ | -------------------------------------------------------------------- |
 | **Languages**      | Go, TypeScript/JavaScript, Python, C/C++, SQL (PostgreSQL / PostGIS) |
 | **Frontend**       | React, Next.js, Tailwind CSS, MapLibre GL, Deck.gl                   |
-| **Backend / Data** | Go (Gin/Fiber), Supabase, dbt, n8n, REST/GraphQL                     |
-| **Cloud & DevOps** | AWS S3 · CloudFront, Docker, GitHub Actions                          |
+| **Backend / Data** | Go (Gin/Fiber), Python, Supabase, dbt, n8n, REST/GraphQL             |
+| **Cloud & DevOps** | AWS S3 · CloudFront, Docker, GitHub                                  |
 | **Analytics & ML** | LlamaIndex, OpenAI API, Power BI                                     |
 
 <!-- ## 📈 GitHub Stats
