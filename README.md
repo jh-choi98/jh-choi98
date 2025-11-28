@@ -16,7 +16,7 @@
 
 - 🛠️ I craft **full‑stack products** that merge solid back‑end engineering with clean, interactive UIs.
 - 📊 Passionate about building full‑stack, **AI‑driven solutions**—from automated, scalable APIs to polished React UIs—that bring complex data to life.
-- 🎯 **Seeking a Fall 2025 Software Engineer / Backend internship**.
+- 🎯 **Seeking a 2026 Software Engineer / Backend Full-time**.
 
 ## 🔥 Recent Highlights
 
