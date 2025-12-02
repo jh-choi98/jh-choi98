@@ -48,7 +48,7 @@
 ## 💬 Let’s Connect
 
 I love chatting about maps, data infrastructure, and clever automation workflows.  
-**Reach me:** `j257choi@uwaterloo.ca` or DM on [LinkedIn](https://linkedin.com/in/cjuho).  
+**Reach me:** `juho.c98@gmail.com` or DM on [LinkedIn](https://linkedin.com/in/cjuho).  
 _Places I’ll probably be_: Toronto · Waterloo · timezone UTC‑4.
 
 <!-- -------------------------------------------------------------------- -->
